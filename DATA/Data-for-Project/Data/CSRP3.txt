@@ -1,0 +1,2 @@
+Name	Gene(s)	Protein change	Condition(s)	Clinical significance (Last reviewed)	Review status	Accession	GRCh37Chromosome	GRCh37Location	GRCh38Chromosome	GRCh38Location	VariationID	AlleleID(s)	dbSNP ID	Canonical SPDI	
+NM_003476.5(CSRP3):c.160_164delinsAGGGG (p.Ser54_Glu55delinsArgGly)	CSRP3		Hypertrophic cardiomyopathy 12	Pathogenic(Last reviewed: Mar 18, 2003)	no assertion criteria provided	VCV000008779	11	19209800 - 19209804	11	19188253 - 19188257	8779	187656	rs281865416	NC_000011.10:19188252:TCCGA:CCCCT

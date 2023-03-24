@@ -1,0 +1,2 @@
+Name	Gene(s)	Protein change	Condition(s)	Clinical significance (Last reviewed)	Review status	Accession	GRCh37Chromosome	GRCh37Location	GRCh38Chromosome	GRCh38Location	VariationID	AlleleID(s)	dbSNP ID	Canonical SPDI	
+NM_002471.4(MYH6):c.3193dup (p.Gln1065fs)	MYH6	Q1065fs	Hypertrophic cardiomyopathy 1	Pathogenic(Last reviewed: Apr 21, 2015)	criteria provided, single submitter	VCV000217832	14	23862178 - 23862179	14	23392969 - 23392970	217832	214495	rs863225269	NC_000014.9:23392969:GGG:GGGG

@@ -1,0 +1,2 @@
+Name	Gene(s)	Protein change	Condition(s)	Clinical significance (Last reviewed)	Review status	Accession	GRCh37Chromosome	GRCh37Location	GRCh38Chromosome	GRCh38Location	VariationID	AlleleID(s)	dbSNP ID	Canonical SPDI	
+NM_000257.4(MYH7):c.5655+5G>C	MYH7		Primary dilated cardiomyopathy|Congenital myopathy|Hypertrophic cardiomyopathy	Pathogenic/Likely pathogenic(Last reviewed: Jan 15, 2022)	criteria provided, multiple submitters, no conflicts	VCV000694311	14	23883211	14	23414002	694311	682183	rs1595070689	NC_000014.9:23414001:C:G
