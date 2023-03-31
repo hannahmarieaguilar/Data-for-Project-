@@ -16,17 +16,6 @@
 | NEXN          | Actin         | 1        |      -              |      1          |Nexilin             |Z disc protein               |   -                                |
 | TPM1          | Actin         | 15       |      3%             |      15         |Α-tropomyosin 1 chain             |Places the troponin complex on cardiac actin               |      thin                             |
 
-thick
-thick
--
-thick
-thin
-thin
-thin
-thin
--
-thin
-
 
 
 
