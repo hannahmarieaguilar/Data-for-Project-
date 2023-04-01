@@ -32,7 +32,9 @@ Hypertrophic cardiomyopathy is the most common genetic cardiomyopathy with a pre
 | MYL2 | Chest pain, palpitations, thickening of left ventricular wall, mild to moderate septal hypertrophy, asymmetric septal hypertrophy, hypertrophy involving both ventricular septum and left ventricular free wall, systolic anterior motion of mitral valve (in some patients), massive hypertrophy of cardiac papillary muscles (in some patients), massive thickening of the mid-left ventricular chamber walls (in some patients), significant pressure gradient between proximal and distal left ventricular cavities (in some patients), left ventricular hypertrophy pattern seen on electrocardiogram (ECG), prolonged Q waves seen on ECG, Q waves more than one-third ensuing R wave in depth seen on ECG, repolarization abnormalities with marked T-wave inversion seen on ECG, supraventricular tachycardia (in some patients), ventricular fibrillation (in some patients), sudden cardiac death (in some patients), Premature fatigue on exertion, reduced penetrance is present in some families, early onset in some patients, some affected individuals may be asymptomatic, marked variability in severity of phenotype |
 |MYH6 | Increased left ventricular wall thickness, decreased left ventricular fractional shortening, decreased left ventricular ejection fraction, ventricular outflow obstruction, progression to cardiac dilation, refractory heart failure, variable age of onset from third to eighth decade of life|
 
-
-
-
 ### Tropin
+| Name | Symptoms |
+| --- | --- |
+| TNNT2 | Symptoms unclear |
+| TNNI3 | Ventricular hypertrophy,  apical hypertrophy (in some patients), ventricular preexcitation, Wolff-Parkinson-White, atrial fibrillation (in some patients), sudden cardiac death in some families |
+| TNNC1 | Dyspnea on exertion, syncope, with or without exertion, chest pain, left anterior hemiblock (in some patients), right bundle branch block (in some patients), atrial fibrillation (in some patients), ventricular fibrillation (may be associated with physical or emotional stress), increased left ventricular wall thickness, concentric hypertrophy of left ventricle (in some patients), asymmetric septal wall hypertrophy (in some patients), left ventricular outflow obstruction, significant voltage criteria for biventricular hypertrophy seen on ECG, ST segment depression in anterior leads seen on ECG, Variable age of onset from first to sixth decade of life |
