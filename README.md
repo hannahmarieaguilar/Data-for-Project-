@@ -17,9 +17,22 @@ Hypertrophic cardiomyopathy is the most common genetic cardiomyopathy with a pre
 | NEXN          | Actin         | 1        |      -              |      1          |Nexilin             |Z disc protein               |   -                                |
 | TPM1          | Actin         | 15       |      3%             |      15         |Α-tropomyosin 1 chain             |Places the troponin complex on cardiac actin               |      thin                             |
 
-## Actin
+### Actin
 | Name | Symptoms |
 | --- | --- |
 | TPMI | hypertrophic cardiomyopathy, mild degree of hypertrophy with a high incidence of sudden death, ventricular myosite disarray |
 | ACTC1 | Hypertrophic cardiomyopathy, septal bulge of left ventricular outflow tract, Wolff-Parkinson-White arrhythmia (rare), early onset in some patients, highly penetrant but low morbidity |
 | NEXN | Left ventricular hypertrophy, septal hypertrophy asymmetric interventricular, left ventricular anterior wall hypertrophy (in some patients), atrial fibrillation (in some patients) |
+
+### Myosin 
+| Name | Symptoms |
+| --- | --- |
+| MYBPC3 |  Hypertrophic cardiomyopathy, Chest pain, Cardiomegaly, Bilateral ventricular hypertrophy, Enlarged right atrium, Progressive heart failure, Pericardial effusion, First-degree atrioventricular block, Reduced left ventricular systolic function, Reduced shortening fraction of left ventricle, Reduced right ventricular systolic function, Enlarged left ventricular end systolic diameter, Thickened interventricular septum, Complete and incomplete left bundle branch block, Right bundle branch block, Ventricular fibrillation, Cardiac arrest, sudden dieath may occur during vigorous exercise, stroke |
+| MYL3 | Palpitations, systolic ejection murmur, hypertrophic left ventricular free wall, hypertrophic ventricular septum (primarily apical half), massive hypertrophy of cardiac papillary muscles, massive thickening of the mid-left ventricular chamber walls, anterior displacement of mitral valve (closer to ventricular septum), significant pressure gradient between proximal and distal left ventricular cavities, biatrial enlargement (in some patients), restrictive physiology (in some patients), left ventricular hypertrophy pattern seen on electrocardiogram (ECG), left atrial enlargement seen on ECG, T-wave inversion of mild amplitude seen on ECG, ventricular fibrillation, elevated left ventricular end-diastolic pressure, cardiac arrest, sudden cardiac death, extensive myocyte disorganization seen on biopsy, myocyte hypertrophy, interstitial fibrosis, early-onset severe disease in homozylogous patients |
+| MYL2 | Chest pain, palpitations, thickening of left ventricular wall, mild to moderate septal hypertrophy, asymmetric septal hypertrophy, hypertrophy involving both ventricular septum and left ventricular free wall, systolic anterior motion of mitral valve (in some patients), massive hypertrophy of cardiac papillary muscles (in some patients), massive thickening of the mid-left ventricular chamber walls (in some patients), significant pressure gradient between proximal and distal left ventricular cavities (in some patients), left ventricular hypertrophy pattern seen on electrocardiogram (ECG), prolonged Q waves seen on ECG, Q waves more than one-third ensuing R wave in depth seen on ECG, repolarization abnormalities with marked T-wave inversion seen on ECG, supraventricular tachycardia (in some patients), ventricular fibrillation (in some patients), sudden cardiac death (in some patients), Premature fatigue on exertion, reduced penetrance is present in some families, early onset in some patients, some affected individuals may be asymptomatic, marked variability in severity of phenotype |
+|MYH6 | Increased left ventricular wall thickness, decreased left ventricular fractional shortening, decreased left ventricular ejection fraction, ventricular outflow obstruction, progression to cardiac dilation, refractory heart failure, variable age of onset from third to eighth decade of life|
+
+
+
+
+### Tropin
