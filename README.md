@@ -6,16 +6,17 @@ Hypertrophic cardiomyopathy is the most common genetic cardiomyopathy with a pre
 ## Table 1
 | Name          | Type          | HCM Type | HCM Frequency       | Chromosome      | Protein     | Function      | Think or Thick Myofilament Protein|
 | ------------- | ------------- | ---------| ------------------- | --------------- | ----------- | ------------- | --------------------------------  |
-| MYL3          | Myosin        | 3        |      1%             |      3          | Myosin light chain          |    Myosin heavy chain 7 binding protein           |  thick                                 |
+| MYL3          | Myosin        | 8        |      1%             |      3          | Myosin light chain          |    Myosin heavy chain 7 binding protein           |  thick                                 |
 | MYL2          | Myosin        | 12       |      1-2%           |      12         |Regulatory myosin light chain             |  Myosin heavy chain 7 binding protein             |          thick                         |
 | MYH6          | Myosin        | 14       |      -              |      14         |Myosin heavy chain alpha             | Sarcomere protein expressed at low levels in the adult human heart              |           -                        |
-| MYBP3         | Myosin        | 11       |      35-40%         |      11         |Myosin binding protein-C3             | Cardiac Contraction              |    thick                               |
-| TNNC1         | Tropin        | 3        |      <1%            |      3          |Cardiac Troponin C             |Calcium sensitive regulator of myofilament function               |           thin                        |
-| TNNI3         | Tropin        | 19       |      5%             |      19         |Cardiac troponin I             |Inhibitor of acto-myosin interaction               |                    thin               |
-| TNNT2         | Tropin        | 1        |      5-15%          |      1          |Cardiac troponin T             |Regulator of acto-myosin interaction               |              thin                     |
-| ACTC1         | Actin         | 15       |      1%             |      15         |Cardiac α - actin             |Acto-myosin interaction               |                                   thin|
-| NEXN          | Actin         | 1        |      -              |      1          |Nexilin             |Z disc protein               |   -                                |
-| TPM1          | Actin         | 15       |      3%             |      15         |Α-tropomyosin 1 chain             |Places the troponin complex on cardiac actin               |      thin                             |
+| MYBP3         | Myosin        | 4       |      35-40%         |      11         |Myosin binding protein-C3             | Cardiac Contraction              |    thick                               |
+| TNNC1         | Troponin        | 13        |      <1%            |      3          |Cardiac Troponin C             |Calcium sensitive regulator of myofilament function               |           thin                        |
+| TNNI3         | Troponin        | 7       |      5%             |      19         |Cardiac troponin I             |Inhibitor of acto-myosin interaction               |                    thin               |
+| TNNT2         | Troponin        | 2        |      5-15%          |      1          |Cardiac troponin T             |Regulator of acto-myosin interaction               |              thin                     |
+| ACTC1         | Actin         | 11       |      1%             |      15         |Cardiac α - actin             |Acto-myosin interaction               |                                   thin|
+| NEXN          | Actin         | 20        |      -              |      1          |Nexilin             |Z disc protein               |   -                                |
+| TPM1          | Actin         | 3       |      3%             |      15         |Α-tropomyosin 1 chain             |Places the troponin complex on cardiac actin               |      thin                             |
+
 
 ### Actin
 | Name | Symptoms |
@@ -32,7 +33,7 @@ Hypertrophic cardiomyopathy is the most common genetic cardiomyopathy with a pre
 | MYL2 | Chest pain, palpitations, thickening of left ventricular wall, mild to moderate septal hypertrophy, asymmetric septal hypertrophy, hypertrophy involving both ventricular septum and left ventricular free wall, systolic anterior motion of mitral valve (in some patients), massive hypertrophy of cardiac papillary muscles (in some patients), massive thickening of the mid-left ventricular chamber walls (in some patients), significant pressure gradient between proximal and distal left ventricular cavities (in some patients), left ventricular hypertrophy pattern seen on electrocardiogram (ECG), prolonged Q waves seen on ECG, Q waves more than one-third ensuing R wave in depth seen on ECG, repolarization abnormalities with marked T-wave inversion seen on ECG, supraventricular tachycardia (in some patients), ventricular fibrillation (in some patients), sudden cardiac death (in some patients), Premature fatigue on exertion, reduced penetrance is present in some families, early onset in some patients, some affected individuals may be asymptomatic, marked variability in severity of phenotype |
 |MYH6 | Increased left ventricular wall thickness, decreased left ventricular fractional shortening, decreased left ventricular ejection fraction, ventricular outflow obstruction, progression to cardiac dilation, refractory heart failure, variable age of onset from third to eighth decade of life|
 
-### Tropin
+### Troponin
 | Name | Symptoms |
 | --- | --- |
 | TNNT2 | Symptoms unclear |
