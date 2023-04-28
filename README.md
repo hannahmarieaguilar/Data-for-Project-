@@ -6,16 +6,17 @@ Hypertrophic cardiomyopathy is the most common genetic cardiomyopathy with a pre
 ## Table 1
 | Name          | Type          | HCM Type | HCM Frequency       | Chromosome      | Protein     | Function      | Think or Thick Myofilament Protein|
 | ------------- | ------------- | ---------| ------------------- | --------------- | ----------- | ------------- | --------------------------------  |
-| MYL3          | Myosin        | 8        |      1%             |      3          | Myosin light chain          |    Myosin heavy chain 7 binding protein           |  thick                                 |
-| MYL2          | Myosin        | 12       |      1-2%           |      12         |Regulatory myosin light chain             |  Myosin heavy chain 7 binding protein             |          thick                         |
-| MYH6          | Myosin        | 14       |      -              |      14         |Myosin heavy chain alpha             | Sarcomere protein expressed at low levels in the adult human heart              |           -                        |
-| MYBPC3         | Myosin        | 4       |      35-40%         |      11         |Myosin binding protein-C3             | Cardiac Contraction              |    thick                               |
+|MYH7         | Myosin             | -        | 30-35%            | 14 |             β-myosin heavy chain| instructs on how to make β-myosin heavy chain | thick|
+| MYL3          | Myosin        | 8        |      <1%             |      3          | Myosin light chain          |    Myosin heavy chain 7 binding protein           |  thick                                 |
+| MYL2          | Myosin        | 12       |      <1%           |      12         |Regulatory myosin light chain             |  Myosin heavy chain 7 binding protein             |          thick                         |
+| MYH6          | Myosin        | 14       |      <0.5%              |      14         |Myosin heavy chain alpha             | Sarcomere protein expressed at low levels in the adult human heart              |           -                        |
+| MYBPC3         | Myosin        | 4       |      20-30%         |      11         |Myosin binding protein-C3             | Cardiac Contraction              |    thick                               |
 | TNNC1         | Troponin        | 13        |      <1%            |      3          |Cardiac Troponin C             |Calcium sensitive regulator of myofilament function               |           thin                        |
-| TNNI3         | Troponin        | 7       |      5%             |      19         |Cardiac troponin I             |Inhibitor of acto-myosin interaction               |                    thin               |
-| TNNT2         | Troponin        | 2        |      5-15%          |      1          |Cardiac troponin T             |Regulator of acto-myosin interaction               |              thin                     |
-| ACTC1         | Actin         | 11       |      1%             |      15         |Cardiac α - actin             |Acto-myosin interaction               |                                   thin|
+| TNNI3         | Troponin        | 7       |      <5%             |      19         |Cardiac troponin I             |Inhibitor of acto-myosin interaction               |                    thin               |
+| TNNT2         | Troponin        | 2        |      10-15%          |      1          |Cardiac troponin T             |Regulator of acto-myosin interaction               |              thin                     |
+| ACTC1         | Actin         | 11       |      <0.5%             |      15         |Cardiac α - actin             |Acto-myosin interaction               |                                   thin|
 | NEXN          | Actin         | 20        |      -              |      1          |Nexilin             |Z disc protein               |   -                                |
-| TPM1          | Actin         | 3       |      3%             |      15         |Α-tropomyosin 1 chain             |Places the troponin complex on cardiac actin               |      thin                             |
+| TPM1          | Actin         | 3       |      <5%             |      15         |Α-tropomyosin 1 chain             |Places the troponin complex on cardiac actin               |      thin                             |
 
 
 ### Actin
